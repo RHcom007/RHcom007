@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rhcom007" target="blank"><img src="https://img.shields.io/twitter/follow/rhcom007?logo=twitter&style=for-the-badge" alt="rhcom007" /></a> </p>
 
-- 🔭 I’m currently collage on [SMKN 2 Kota Jambi](smkn2kotajambi.sch.id)
+- 🔭 I’m currently collage on [SMKN 2 Kota Jambi](https://smkn2kotajambi.sch.id)
 
 - 🌱 I’m currently learning **C++ and C#**
 
