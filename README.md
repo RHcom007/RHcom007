@@ -1,4 +1,3 @@
-<img src="https://github.com/RHcom007/RHcom007/blob/0821d0170a63463ee8a5dc16d6e79e95fae4c8db/banner%20(1).png"></img>
 <h1 align="center">Hi 👋, I'm M. Radja Herlangga</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
